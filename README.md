@@ -166,7 +166,7 @@ pipeline {
 }
 ```
 
-## ⚓️ Sucessfull Deployed pipleline 
+## ⚓️ Sucessfull Deployed Pipleline 
 ![Image2](/Assests/Pipeline1.png)
 ![Image2](/Assests/Pipeline2.png)
 
@@ -183,7 +183,7 @@ pipeline {
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/kartikk26/myproject.git
+git clone https://github.com/Kartikk-26/CI-CD-Pipeline-Project.git
 ```
 
 ### 2. Configure Environment Variables
